@@ -169,6 +169,7 @@ nav.main-menu a:link, nav.main-menu a:hover, nav.main-menu a:focus, nav.main-men
     background-size: cover;
     min-height: 100vh;
     padding-bottom: 130px;
+    color: #fff;
 }
 #templatemo_home .templatemo_home_inner_wapper {
     width: 100%;
@@ -238,6 +239,8 @@ nav.main-menu a:link, nav.main-menu a:hover, nav.main-menu a:focus, nav.main-men
     text-align: center;
 }
 */
+
+
 #titulo_eu_imagem{
    /* background-color: #96777f;*/
     padding-top: 2.5%;
