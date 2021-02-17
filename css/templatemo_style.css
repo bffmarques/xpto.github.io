@@ -164,13 +164,11 @@ nav.main-menu a:link, nav.main-menu a:hover, nav.main-menu a:focus, nav.main-men
 }
 /***** Home *****/
 #templatemo_home {
-    background: url(../images/img3.JPG) fixed;
+    background: url(../images/img3.jpg) fixed;
+    /*background:  url(../images/.jpg) fixed;*/
     background-size: cover;
-    height: auto;
-   /* min-height: 100vh; */
-    padding.bottom:70%;
-   /* padding-bottom: 130px; */
-   /* color: #fff; */
+    min-height: 100vh;
+    padding-bottom: 130px;
 }
 #templatemo_home .templatemo_home_inner_wapper {
     width: 100%;
